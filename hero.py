@@ -72,6 +72,7 @@ class Villain(AirHero):
 
 villain = Villain('Бэтмен', 'bat', 'beast', 3500, "All heroes must to die!!!", 1500)
 
+
 print(people1.get_name())
 print(people1)
 print(people1.__len__())
